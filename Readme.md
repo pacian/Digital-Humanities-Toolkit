@@ -1408,3 +1408,5 @@ Img = Image archives in public domain
 - [World Data Center for Human Interactions in the Environment](http://sedac.ciesin.columbia.edu/wdc/) (from Columbia U.)
 - [World Values Survey (WVS)](http://www.worldvaluessurvey.org/wvs.jsp) ("global research project that explores people’s values and beliefs, their stability or change over time and their impact on social and political development of the societies in different countries of the world")
 - [Yelp Academic Dataset](https://www.yelp.com/academic_dataset) ("Yelp is providing all the data and reviews of the 250 closest businesses for 30 universities for students and academics to explore and research. We've provided some examples on GitHub to get you started. To get them running, you will need to install MRJob, our python framework for Map-Reduce computing")
+- 
+To the extent possible under law, Richard Dennis has waived all copyright and related or neighboring rights to this work.
