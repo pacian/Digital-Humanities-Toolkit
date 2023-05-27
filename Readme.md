@@ -1,4 +1,4 @@
-# Guides to the Guide and Introduction Digital Humanities Toolkit
+# Welcome to the Guide and Introduction to Digital Humanities Toolkit
 
 ### Contents:
 
